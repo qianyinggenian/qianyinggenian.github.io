@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkyian"]=self["webpackChunkyian"]||[]).push([[467],{6098:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var r=function(){var t=this,e=t._self._c;return e("layout",{attrs:{"is-show-left":!1}},[e("div",{attrs:{slot:"right"},slot:"right"},[e("proxy-table")],1)])},a=[],s=n(6106),o={name:"index",components:{proxyTable:s.Z},data(){return{}},props:{},watch:{},computed:{},mounted(){},methods:{}},u=o,l=n(1001),i=(0,l.Z)(u,r,a,!1,null,"7ad3fd39",null),c=i.exports}}]);
+//# sourceMappingURL=467.5e04ca15.js.map
