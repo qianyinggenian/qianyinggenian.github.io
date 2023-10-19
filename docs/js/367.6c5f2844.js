@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkyian"]=self["webpackChunkyian"]||[]).push([[367],{367:function(n,e,u){u.r(e),u.d(e,{default:function(){return s}});var r=function(){var n=this,e=n._self._c;return e("div",[n._v(" 导航设置 "),e("router-view")],1)},t=[],i={name:"index"},a=i,f=u(1001),l=(0,f.Z)(a,r,t,!1,null,"1086f77e",null),s=l.exports}}]);
-//# sourceMappingURL=367.6c5f2844.js.map

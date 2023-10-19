@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkyian"]=self["webpackChunkyian"]||[]).push([[807],{5807:function(n,e,u){u.r(e),u.d(e,{default:function(){return c}});var t=function(){var n=this,e=n._self._c;return e("div",[n._v("用户管理")])},a=[],i={name:"index"},r=i,l=u(1001),s=(0,l.Z)(r,t,a,!1,null,"4e33038a",null),c=s.exports}}]);
-//# sourceMappingURL=807.9bdd6498.js.map
